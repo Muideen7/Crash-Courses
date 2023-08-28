@@ -1,6 +1,6 @@
 # Crash Course Name
 
-Welcome to the Crash Course on [Course Name]! This crash course is designed to provide a quick and focused introduction to [Course Topic]. Whether you're a beginner looking to learn the basics or someone with some experience looking for a refresher, this crash course is for you.
+Welcome to the Crash Course on all things F!rontend This crash course is designed to provide a quick and focused introduction to Frontend Web development. Whether you're a beginner looking to learn the basics or someone with some experience looking for a refresher, this crash course is for you.
 
 ## Table of Contents
 
@@ -14,11 +14,11 @@ Welcome to the Crash Course on [Course Name]! This crash course is designed to p
 
 ## Introduction
 
-In this crash course, you'll learn about the fundamental concepts of [Course Topic]. We'll cover key concepts, practical examples, and hands-on exercises to help you quickly grasp the essentials.
+In this crash course, you'll learn about the fundamental concepts of [MEAN, MEVN and MERN Stack]. We'll cover key concepts, practical examples, and hands-on exercises to help you quickly grasp the essentials.
 
 ## Prerequisites
 
-Before starting this crash course, you should have a basic understanding of [relevant prerequisites]. Familiarity with [specific tools, technologies, or concepts] will be beneficial, but not mandatory.
+Before starting this crash course, you should have a basic understanding of [html, css and javascript]. Familiarity with [specific tools like git and github, technologies, or concepts] will be beneficial, but not mandatory.
 
 ## Course Content
 
