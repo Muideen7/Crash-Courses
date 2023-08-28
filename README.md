@@ -1,6 +1,6 @@
 # Crash Course Name
 
-Welcome to the Crash Course on all things F!rontend This crash course is designed to provide a quick and focused introduction to Frontend Web development. Whether you're a beginner looking to learn the basics or someone with some experience looking for a refresher, this crash course is for you.
+Welcome to the Crash Course on all things Frontend This crash course is designed to provide a quick and focused introduction to Frontend Web development. Whether you're a beginner looking to learn the basics or someone with some experience looking for a refresher, this crash course is for you.
 
 ## Table of Contents
 
